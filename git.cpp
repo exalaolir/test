@@ -8,6 +8,7 @@ int main()
 {
     cout << "Hello World!\n";
     cout << "Hello from GitHub\n";
+    cout << "Hello from Git!!!\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
